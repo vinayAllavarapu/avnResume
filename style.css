@@ -1,0 +1,27 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 20px;
+}
+header{
+    font-size: large;
+    font-weight: 800;
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    color:black;
+    
+}
+.skills{
+    list-style-type: disc;
+    
+}
+a:hover {
+    color:rgb(3, 60, 158);
+    text-decoration: underline;
+}
+h2 {
+    color: #636363;
+    border-bottom: 1px solid #001018; 
+}
