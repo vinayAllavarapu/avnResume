@@ -1,6 +1,9 @@
 body{
     font-family: 'Times New Roman', Times, serif;
     margin-left: 20px;
+    color: #050505;
+    padding-left: 9vw;
+    padding-right: 9vw;
 }
 header{
     font-size: large;
@@ -22,6 +25,6 @@ a:hover {
     text-decoration: underline;
 }
 h2 {
-    color: #636363;
+    color: #050505;
     border-bottom: 1px solid #001018; 
 }
